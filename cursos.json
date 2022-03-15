@@ -1,0 +1,100 @@
+{
+  "cursos": [
+    {
+      "nome": "Direito",
+      "dados": [
+        {
+          "modalidade": "Presencial",
+          "total": 11
+        },
+        {
+          "modalidade": "Distância",
+          "total": 2
+        },
+        {
+          "modalidade": "X",
+          "total": 2
+        },
+        {
+          "modalidade": "Y",
+          "total": 2
+        },
+        {
+          "modalidade": "Z",
+          "total": 7
+        }
+      ]
+    },
+    {
+      "nome": "Computação",
+      "dados": [
+        {
+          "modalidade": "Presencial",
+          "total": 8
+        },
+        {
+          "modalidade": "Distância",
+          "total": 2
+        },
+        {
+          "modalidade": "X",
+          "total": 2
+        },
+        {
+          "modalidade": "Y",
+          "total": 2
+        }
+      ]
+    },
+    {
+      "nome": "Matemática",
+      "dados": [
+        {
+          "modalidade": "Presencial",
+          "total": 9
+        },
+        {
+          "modalidade": "Distância",
+          "total": 1
+        },
+        {
+          "modalidade": "X",
+          "total": 5
+        },
+        {
+          "modalidade": "Y",
+          "total": 2
+        },
+        {
+          "modalidade": "Z",
+          "total": 7
+        }
+      ]
+    },
+    {
+      "nome": "Ingles",
+      "dados": [
+        {
+          "modalidade": "Presencial",
+          "total": 11
+        },
+        {
+          "modalidade": "Distância",
+          "total": 1
+        },
+        {
+          "modalidade": "X",
+          "total": 2
+        },
+        {
+          "modalidade": "Y",
+          "total": 5
+        },
+        {
+          "modalidade": "Z",
+          "total": 2
+        }
+      ]
+    }
+  ]
+}
